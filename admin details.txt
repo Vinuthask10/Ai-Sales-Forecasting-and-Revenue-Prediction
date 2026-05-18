@@ -1,0 +1,7 @@
+to run application:-   
+cd epicure-frontend
+cmd /c npm run dev
+
+For admin login:-
+admin email : allbranches@admin.com
+password : admin@123
